@@ -7,7 +7,7 @@ SI2E_ICML_2024.pdf
 ## Additional Supporting Materials
 
 ### Figure 1
-![image](images/Figure 1.png)
+![image](images/[Figure 1.png](https://github.com/xiaozeng-zxh/SI2E_Rebuttul/blob/main/images/Figure%201.png))
 
 ### Figure 3
 
