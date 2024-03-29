@@ -6,7 +6,8 @@ SI2E_ICML_2024.pdf
 
 ## Additional Supporting Materials
 
-### [Figure 1](images/Figure%201.png)
+### Figure 1
+![](images/Figure%201.png)
 
 ### Figure 3
 
